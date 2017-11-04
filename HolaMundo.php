@@ -4,9 +4,7 @@
  * Esto es sólo un ESQUELETO para el ejercicio de "Hola Mundo".
  */
 
-function holaMundo()
+function holaMundo(): string
 {
-    //
-    // TU CÓDIGO AQUÍ
-    //
+    return '¡Hola, mundo!';
 }
